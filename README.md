@@ -1,4 +1,3 @@
 # Java-OOP-project
-oop demonstration in Jabva
-java classes and oop demonstration code 
-Worker, Nourse, Doctor and a Main that's demonstrate use of all the above
+oop demonstration in Java Language, Classes and basicly an OOP demonstration code 
+Worker, Nourse, Doctor and a Main that's demonstrates all the above...
